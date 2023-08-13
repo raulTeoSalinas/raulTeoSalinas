@@ -4,7 +4,7 @@
 
 💼 As we speak, I'm weaving code spells at CIC-UNAM, where creativity and innovation converge to birth digital marvels. From ideation to deployment, I thrive on transforming visions into pixel-perfect reality.
 
-🎶 Beyond the confines of code, you'll find me lost in the melodies of music production. I'm not only a creator of digital experiences but also a curator of EDM tracks. Tune in to my beats at https://open.spotify.com/artist/5HPUKzBYiCdbSNPqceY9lq?si=or6fcB7GSUGQFT0YS8xJaA. Additionally, I embark on a synthWave journey with my girlfriend, creating captivating soundscapes that resonate with the heart. Immerse yourself in our creative collaboration at https://open.spotify.com/artist/44PwTlBI6dHZZpUXylJvvA?si=4H_yN_S0TruMV_OqRJ345Q.
+🎶 Beyond the confines of code, you'll find me lost in the melodies of music production. I'm not only a creator of digital experiences but also a curator of EDM tracks. Tune in to my beats at https://open.spotify.com/artist/5HPUKzBYiCdbSNPqceY9lq?si=or6fcB7GSUGQFT0YS8xJaA.
 
 🔗 Let's connect and collaborate! Whether it's brainstorming sessions, tech debates, or a virtual coffee exchange, I'm all ears. Together, we'll sculpt the future, one keystroke at a time.
 
