@@ -10,4 +10,4 @@
 
 🚀 Always in pursuit of 'Eureka!' moments and committed to delivering digital excellence!
 
-🛠️ Tech Arsenal: JavaScript, TypeScript, React, React Native, Redux, SQL (PostgreSQL, SQL Server, MySQL, GraphQL), Firebase, PHP, Laravel, Java, Kotlin, HTML, CSS, SASS, Bootstrap, Tailwind"
+🛠️ Tech Arsenal: JavaScript, TypeScript, React, React Native, Redux, SQL (PostgreSQL, SQL Server, MySQL, GraphQL), Firebase, PHP, Laravel, Java, Kotlin, HTML, CSS, SASS, Bootstrap, Tailwind, Wordpress, Elementor"
