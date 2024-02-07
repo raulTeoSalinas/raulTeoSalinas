@@ -13,4 +13,4 @@ And when it comes to mobile app development, I'm equally adept. Whether it's the
 
 🚀 Always in pursuit of 'Eureka!' moments and committed to delivering digital excellence!
 
-🛠️ Tech Arsenal: JavaScript, TypeScript, React, React Native, Redux, SQL (PostgreSQL, SQL Server, MySQL),  GraphQL, Firebase, PHP, Laravel, Java, Kotlin, Swift, HTML, CSS, SASS, Bootstrap, Tailwind, Wordpress, Elementor"
+🛠️ Tech Arsenal: JavaScript, TypeScript, React, React Native, Redux, SQL (PostgreSQL, SQL Server, MySQL),  GraphQL, Apollo, Firebase, PHP, Laravel, Java, Kotlin, Swift, HTML, CSS, SASS, Bootstrap, Tailwind, Wordpress, Elementor"
