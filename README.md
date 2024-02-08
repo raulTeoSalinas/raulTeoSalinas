@@ -6,4 +6,4 @@
 
 🎶 Beyond the confines of code, you'll find me lost in the melodies of music production. Tune in to my beats at https://open.spotify.com/artist/5HPUKzBYiCdbSNPqceY9lq?si=or6fcB7GSUGQFT0YS8xJaA.
 
-🛠️ Tech Arsenal: JavaScript, TypeScript, React, React Native, Redux, SQL (PostgreSQL, SQL Server, MySQL),  GraphQL, Apollo, Firebase, PHP, Laravel, Java, Kotlin, Swift, HTML, CSS, SASS, Bootstrap, Tailwind, Wordpress, Elementor
+🛠️ Tech Arsenal: JavaScript, TypeScript, React, React Native, Redux, SQL (PostgreSQL, SQL Server, MySQL), GraphQL, Apollo, Firebase, Google Cloud, Cloud Run, Docker, Linux Terminal, PHP, Laravel, Java, Kotlin, Swift, HTML, CSS, SASS, Bootstrap, Tailwind, Wordpress, Elementor
