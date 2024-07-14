@@ -1,6 +1,6 @@
 👋 Howdy there, fellow explorer of the digital realm! I'm Raul T. Salinas, a versatile full-stack developer on a perpetual quest to craft immersive web and mobile experiences. 
 
-🎓 Currently, I'm just ONE semester away from completing my bachelors degree at UNAM in IT, where I've been delving into the intricacies of algorithms and code architecture, uncovering my unwavering passion.
+🎓 Bachelors Degree in Information Technology, UNAM.
 
 💼 As we speak, I'm weaving code spells at CIC-UNAM. From ideation to deployment, I thrive on transforming visions into pixel-perfect reality.
 
