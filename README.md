@@ -2,7 +2,7 @@
 
 🎓 Bachelors Degree in Information Technology, UNAM.
 
-💼 As we speak, I'm weaving code spells at CIC-UNAM. From ideation to deployment, I thrive on transforming visions into pixel-perfect reality.
+💼 As we speak, I'm weaving code spells at Orion Innovation. From ideation to deployment, I thrive on transforming visions into pixel-perfect reality.
 
 🎶 Beyond the confines of code, you'll find me lost in the melodies of music production. Tune in to my beats at https://open.spotify.com/artist/5HPUKzBYiCdbSNPqceY9lq?si=or6fcB7GSUGQFT0YS8xJaA.
 
