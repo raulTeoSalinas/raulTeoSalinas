@@ -4,4 +4,4 @@
 
 💼 As we speak, I'm weaving code spells at AlertMedia. From ideation to deployment, I thrive on transforming visions into pixel-perfect reality.
 
-🛠️ Tech Arsenal: JavaScript, TypeScript, Node.JS, Express.JS, React, React Native, Redux, SQL (PostgreSQL, SQL Server, MySQL), MongoDB, Mongoose, GraphQL, Apollo, Firebase, Google Cloud, Cloud Run, Docker, Linux Terminal, PHP, Laravel, Java, Kotlin, Swift, HTML, CSS, SASS, Bootstrap, Tailwind, Wordpress, Elementor
+🛠️ Tech Arsenal: JavaScript, TypeScript, Node.JS, Express.JS, React.JS, React Native, Redux, SQL (PostgreSQL, SQL Server, MySQL), MongoDB, Mongoose, GraphQL, Apollo, Firebase, Google Cloud, Cloud Run, Docker, Linux Terminal, PHP, Laravel, Java, Kotlin, Swift, HTML, CSS, SASS, Bootstrap, Tailwind, Wordpress, Elementor
